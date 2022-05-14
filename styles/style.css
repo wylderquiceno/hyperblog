@@ -1,0 +1,19 @@
+body {
+
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+}
+
+#container {
+    width: 100%;
+    padding: 1em;
+    border: 1px black solid;
+    text-align: center;
+}
+
+#cabecera {
+    background-color: black;
+    color: white;
+
+}
